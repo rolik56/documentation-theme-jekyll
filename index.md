@@ -11,6 +11,8 @@ summary: These brief instructions will help you get started quickly with the the
 
 ## Build the Theme
 
+__new change__
+
 Follow these instructions to build the theme.
 
 ### 1. Download the theme
